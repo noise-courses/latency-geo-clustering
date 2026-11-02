@@ -25,10 +25,11 @@ pipeline with a defensible written comparison is 10/10.
 
 - **The notebook must run.** Submit it *executed* (outputs saved). A notebook
   with error tracebacks in the cells that implement graded items, or with no
-  outputs at all, is treated as not running: those items earn 0 until fixed
+  outputs at all, is treated as not running: those items earn 0.5 until fixed
   and resubmitted.
-- **Sub-items are all-or-nothing.** Each row is 1 point if done in good faith,
-  0 if absent. There are no half points; "did the thing" is the bar.
+- **Partial credit.** Each row is 1 point if done in good faith, 0.5 if
+  attempted but incomplete or partly wrong, 0 only if absent. "Did the thing"
+  is the bar, and ties go to you.
 - **Written answers count.** Items 3.1, 3.2b, and 3.2c require a few sentences
   of explanation, not just code and plots.
 - **Plots are deliverables.** Items 1.2b, 3.2a, and 3.2c are only complete if
